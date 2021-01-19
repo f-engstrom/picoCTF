@@ -1,0 +1,11 @@
+C:\Users\Frans\Dropbox\Projects\picoCTF\bin\Debug\netcoreapp3.0\picoCTF.exe
+C:\Users\Frans\Dropbox\Projects\picoCTF\bin\Debug\netcoreapp3.0\picoCTF.deps.json
+C:\Users\Frans\Dropbox\Projects\picoCTF\bin\Debug\netcoreapp3.0\picoCTF.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\picoCTF\bin\Debug\netcoreapp3.0\picoCTF.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\picoCTF\bin\Debug\netcoreapp3.0\picoCTF.dll
+C:\Users\Frans\Dropbox\Projects\picoCTF\bin\Debug\netcoreapp3.0\picoCTF.pdb
+C:\Users\Frans\Dropbox\Projects\picoCTF\obj\Debug\netcoreapp3.0\picoCTF.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\picoCTF\obj\Debug\netcoreapp3.0\picoCTF.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\picoCTF\obj\Debug\netcoreapp3.0\picoCTF.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\picoCTF\obj\Debug\netcoreapp3.0\picoCTF.dll
+C:\Users\Frans\Dropbox\Projects\picoCTF\obj\Debug\netcoreapp3.0\picoCTF.pdb
